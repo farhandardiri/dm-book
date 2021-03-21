@@ -1,5 +1,0 @@
-function xnew=scale(x,BB,BA)
-[Xmax]=max(x);
-[Xmin]=min(x);
-[R,C]= sixe(x);
-xnew=(x-ones(R,1)*Xmin).*(ones(R,1))

@@ -20,3 +20,4 @@ print("varian x_standarisasi:", x_standarisasi.var(), "\n")
 BA = 1; BB = 0 #BA = batas atas, BB = batas bawah
 x_scaling = (x - x.min()) / (x.max()-x.min()) * (BA-BB) + BB
 print("x_scaling: ", x_scaling)
+
