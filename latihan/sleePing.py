@@ -37,11 +37,11 @@ def start():
     sleep(1)
     print("A message to you.....")
     sleep(4)
-    print("\t MAY GOD BLESS YOU!! :)")
+    print("\t Jangan lupa berdo'a !!! :)")
 
 
-a = input("1.TYPE 'win'\n2.PRESS 'ENTER' KEY\n(ELSE TYPE 'QUIT' TO QUIT)\n\n:").lower()
-if (a == "win"):
+a = input("1.TYPE 'bangkit'\n2.PRESS 'ENTER' KEY\n(ELSE TYPE 'QUIT' TO QUIT)\n\n:").lower()
+if (a == "bangkit"):
     start()
 else:
     print("BYE!!")
