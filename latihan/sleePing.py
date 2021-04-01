@@ -2,15 +2,15 @@ from time import sleep
 
 
 def start():
-    name = "viewer"
+    name = "Queen"
     print("\t\ti i i")
     sleep(1)
     print("\t\ti i i")
     sleep(1)
     print("\t:---------------------:")
-    print("\t:   Happy    ++++     :")
+    print("\t:   Never give up    ++++     :")
     sleep(1)
-    print("\t:   ++++     Birthday :")
+    print("\t:   ++++     on your dreams :")
     sleep(1)
     print(f"\t:  {name}   ++++      :")
     print("\t/______________________\ ")
